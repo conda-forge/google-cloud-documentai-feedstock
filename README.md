@@ -147,6 +147,3 @@ Feedstock Maintainers
 
 * [@MartinHoloubekQC](https://github.com/MartinHoloubekQC/)
 
-
-<!-- dummy commit to enable rerendering -->
-
